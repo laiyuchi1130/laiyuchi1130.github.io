@@ -4,6 +4,27 @@
   
     
     <entry>
+      <title>讓手機與電腦聯動：KDE Connect 使用教學</title>
+      <link href="/2023/06/22/kde-connect-tutorial/"/>
+      <url>/2023/06/22/kde-connect-tutorial/</url>
+      
+        <content type="html"><![CDATA[<h1 id="原理＆簡介"><a href="#原理＆簡介" class="headerlink" title="原理＆簡介"></a>原理＆簡介</h1><p>KDE Connect是一款跨平台開源的應用程式，主要功能為讓二台裝置透過無線網路傳輸檔案，還可以遠端遙控電腦、播放音樂、控制投影片等等。不需要註冊帳號，也沒有流量限制。簡單來說，它可以讓你的Linux電腦與手機透過wifi的方式連結，並擁有一般 Remote controller 類型APP的基本功能。</p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> Tutorial </tag>
+            
+            <tag> 未完成 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Hello World</title>
       <link href="/2023/06/15/hello-world/"/>
       <url>/2023/06/15/hello-world/</url>
